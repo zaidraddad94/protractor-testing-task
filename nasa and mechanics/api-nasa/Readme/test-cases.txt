@@ -1,0 +1,4 @@
+NASA API:
+1-  should call NASA API successfully
+2-  navigate through aseroidnear.com and search for the same asteroid 
+3-  comber data from API and data from aseroidnear.com  

@@ -1,0 +1,4 @@
+popular mechanics : 
+1- should open page popularmechanics.com 
+2- open burger menu 
+3 - open each link in the menu and make sure it did open 
